@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         echo "<p>$mensaje</p>";
     }
 } else {
-    header("Location: http://localhost/formulario/Views/registro.php");
+    header("Location: http://localhost/Formulario_Vanesa_PHP/Views/registro.php");
 }
 
 

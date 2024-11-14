@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/formulario.iml" filepath="$PROJECT_DIR$/.idea/formulario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Formulario_MVC_PHP.iml" filepath="$PROJECT_DIR$/.idea/Formulario_MVC_PHP.iml" />
     </modules>
   </component>
 </project>

@@ -18,7 +18,7 @@ class UsuarioController
             return "El usuario ya está registrado.";
         } else {
             $this->modelo->registrarUsuario($nombre,$apellido, $email, $clave);
-            header("Location: http://localhost/formulario/Views/exito.php");
+            header("Location: http://localhost/Formulario_Vanesa_PHP/Views/exito.php");
             exit;
         }
     }

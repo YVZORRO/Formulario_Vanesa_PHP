@@ -3,7 +3,7 @@
 class Conexion
 {
     private $host = 'localhost';
-    private $db = 'registro';
+    private $db = 'dbformulario';
     private $user = 'root';
     private $pass = 'Adso';
     protected $conn;
