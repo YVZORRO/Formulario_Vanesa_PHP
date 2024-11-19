@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f7d76a5-1622-4194-b81f-3561e1651710" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/formulario.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/layauts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controlers/user_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controlers/user_controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/conexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/conexion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/imagenes/fondo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Views/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/exito.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Panel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/layauts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/layauts/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/layauts/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/layauts/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/layauts/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/registro.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Sesion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/scrips/scrips.js" beforeDir="false" afterPath="$PROJECT_DIR$/Views/scripts/scrips.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/laragon/www/Formulario_Vanesa_PHP",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/laragon/www/Formulario_Vanesa_PHP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1731622757620</updated>
       <workItem from="1731622758340" duration="1438000" />
-      <workItem from="1731624280670" duration="697000" />
+      <workItem from="1731624280670" duration="2234000" />
+      <workItem from="1731694412643" duration="9452000" />
+      <workItem from="1732041198216" duration="5525000" />
     </task>
     <servers />
   </component>

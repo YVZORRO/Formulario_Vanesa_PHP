@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="../Views/css/estilos.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+
 </head>
 <body>
 <form action="../index.php" method="POST" class="p-4" style="max-width: 400px; margin: auto; background-color: rgba(205, 191, 232, 0.6); border-radius: 8px;">
@@ -22,7 +24,7 @@
     </div>
 
     <div class="mb-3">
-        <label for="email" class="form-label"><i class="fas fa-envelope"></i> Email:</label>
+        <label for="email" class="form-label"><i class="fas fa-envelope"></i> Gmail:</label>
         <input type="email" name="email" class="form-control" required>
     </div>
 
@@ -31,7 +33,7 @@
         <input type="password" name="clave" class="form-control" required>
     </div>
 
-    <button type="submit"> Registrar</button>
+    <button type="submit"> Ingresar </button>
 </form>
 </body>
 </html>
